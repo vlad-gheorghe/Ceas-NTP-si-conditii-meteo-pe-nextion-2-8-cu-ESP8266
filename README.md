@@ -7,3 +7,4 @@ The code is made with Gemini AI
 
 nextion.zip is is the archive with files needed in nextion editor
 
+![poza](https://github.com/vlad-gheorghe/Ceas-NTP-si-conditii-meteo-pe-nextion-2-8-cu-ESP8266/blob/main/IMG20260909192142.jpg)
